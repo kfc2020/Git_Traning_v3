@@ -1,2 +1,2 @@
 # Git_Traning_v3
-This is for git and github perpose
+This is for git and github purpose
