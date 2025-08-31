@@ -1,1 +1,2 @@
 this is sample file 1
+HEy this is my second line we have to addd to check the revert command how it work
