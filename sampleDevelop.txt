@@ -1,2 +1,0 @@
-This is my first develop file
-Hey this add a new add line the sampkle develop file for the check the git reset command how it work

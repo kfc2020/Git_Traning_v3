@@ -1,4 +1,8 @@
 this is sample file 1
 HEy this is my second line we have to addd to check the revert command how it work
 hey i want to add third line in sampletxt file for to check meger command is working or not
+<<<<<<< Updated upstream
 This is a stash lecture, change in sampletxt.txt urgent fix 
+=======
+This is a stash lecture, change in sampletxt.txt
+>>>>>>> Stashed changes
